@@ -1,6 +1,6 @@
 ## About this template
 
-This is a template to get started with a Gauge project that uses Selenium as the driver to interact with a web browser.
+Agoda sitenin otomasyon testiyle ilgii detayları burdan paylaşıyor olacağım.
 
 ## Installing this template
 
@@ -10,7 +10,7 @@ This is a template to get started with a Gauge project that uses Selenium as the
 
 ### Defining Specifications
 
-* This template includes a sample specification which opens up a browser and navigates to `Get Started` page of Gauge.
+* Selenium+maven kullanarak oluşturduğum projede gauge da kullandım.
 * Add more specifications on top of sample specification.
 
 Read more about [Specifications](http://getgauge.io/documentation/user/current/specifications/README.html)
